@@ -4,6 +4,11 @@
 .AppleDouble
 .LSOverride
 venv
+.vscode
+WS-Nico
+decodersimple.png
+encodersimple.png
+tensorflow-apple-metal.yml
 
 # Icon must end with two \r
 Icon
